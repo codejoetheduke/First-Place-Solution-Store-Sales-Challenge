@@ -1,4 +1,9 @@
 # 🛒 Store Sales Forecasting (1st Place Solution)
+
+
+<img width="2048" height="640" alt="upscaled_market_2048x2048" src="https://github.com/user-attachments/assets/1b353996-5231-486c-8ff3-4e8e72259462" />
+
+
 This repository contains the complete pipeline used for forecasting store-category-level sales using LightGBM with GPU acceleration. The solution applies cross-validation, log transformations, and robust ensemble strategies to produce accurate predictions.
 
 ## 📂 Project Structure
