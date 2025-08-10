@@ -95,5 +95,5 @@ submission.to_csv("submission.csv", index=False)
 📬 Contact
 For questions or feedback, feel free to reach out or open an issue!
 
-## Don't Just Have a Good Day. Have a Great Day!
+## Don't Just Have A Good Day. Have a Great Day!
 
